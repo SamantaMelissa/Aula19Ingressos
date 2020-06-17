@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\bin\Debug\netcoreapp3.1\Aula19Ingressos.exe
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\bin\Debug\netcoreapp3.1\Aula19Ingressos.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\bin\Debug\netcoreapp3.1\Aula19Ingressos.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\bin\Debug\netcoreapp3.1\Aula19Ingressos.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\bin\Debug\netcoreapp3.1\Aula19Ingressos.dll
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\bin\Debug\netcoreapp3.1\Aula19Ingressos.pdb
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\obj\Debug\netcoreapp3.1\Aula19Ingressos.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\obj\Debug\netcoreapp3.1\Aula19Ingressos.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\obj\Debug\netcoreapp3.1\Aula19Ingressos.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\obj\Debug\netcoreapp3.1\Aula19Ingressos.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\obj\Debug\netcoreapp3.1\Aula19Ingressos.dll
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\obj\Debug\netcoreapp3.1\Aula19Ingressos.pdb
+C:\Users\saman\OneDrive\Documentos\Aula19Ingressos\obj\Debug\netcoreapp3.1\Aula19Ingressos.genruntimeconfig.cache
